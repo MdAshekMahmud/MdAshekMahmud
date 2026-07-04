@@ -44,27 +44,13 @@ I am currently learning and building projects in Machine Learning and Computer V
 
 ## 📫 Let's Connect
 - 💼 GitHub: [MdAshekMahmud](https://github.com/MdAshekMahmud)
-- 🌐 LinkedIn: [Ashek Mahmud](https://linkedin.com/in/ashek-mahmud)
+- 🌐 LinkedIn: [Ashek Mahmud](https://linkedin.com/in/md-ashek-mahmud/)
 - 📧 Email: [ashek.cse.bd@gmail.com](mailto:ashek.cse.bd@gmail.com)
 
 ---
 
 ## 🚀 Motto
 > “Strong fundamentals in algorithms, growing toward intelligent systems through Machine Learning and Computer Vision.”
-
----
-
-⭐ Thanks for visiting my profile!
-
-## 📫 Let's Connect!
-- 💼 GitHub: [MdAshekMahmud](https://github.com/MdAshekMahmud)  
-- 🌐 LinkedIn: [Ashek Mahmud](https://linkedin.com/in/ashek-mahmud)  
-- 📧 Email: [ashek.cse.bd@gmail.com](mailto:ashek.cse.bd@gmail.com)
-
----
-
-## 🚀 Motto
-> “Turning ideas into intelligent solutions through code and curiosity.”
 
 ---
 
