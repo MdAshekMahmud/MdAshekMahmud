@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="320" alt="Coding GIF">
+
 # Hi there, I'm Ashek Mahmud 👋
 
 I am a passionate problem solver and developer from Bangladesh with a strong foundation in Data Structures & Algorithms and a growing focus on Machine Learning and Computer Vision.
@@ -54,7 +57,6 @@ I am currently learning and building projects in Machine Learning and Computer V
 
 ---
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ashek-mahmud) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28896124) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashek.cse.bd@gmail.com) 
 
@@ -74,5 +76,3 @@ I am currently learning and building projects in Machine Learning and Computer V
 
 ---
 [![](https://komarev.com/ghpvc/?username=MdAshekMahmud&icon=10&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
