@@ -1,8 +1,8 @@
-# 💫 About Me:
+![Coding Banner](https://github.com/MdAshekMahmud/MdAshekMahmud/blob/main/Banner.png)
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="320" alt="Coding GIF">
 
-# Hi there, I'm Ashek Mahmud 👋
+<h1 align="center">Hi there, I'm Md. Ashek Mahmud 👋</h1>
 
 I am a passionate problem solver and developer from Bangladesh with a strong foundation in Data Structures & Algorithms and a growing focus on Machine Learning and Computer Vision.
 
