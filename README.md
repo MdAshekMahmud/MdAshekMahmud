@@ -1,78 +1,84 @@
 ![Coding Banner](https://github.com/MdAshekMahmud/MdAshekMahmud/blob/main/Banner.png)
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="320" alt="Coding GIF">
+<h1 align="center">Hi, I'm Md. Ashek Mahmud 👋</h1>
+<p align="center">Machine Learning & Computer Vision | Competitive Programmer | Bangladesh 🇧🇩</p>
 
-<h1 align="center">Hi there, I'm Md. Ashek Mahmud 👋</h1>
-
-I am a passionate problem solver and developer from Bangladesh with a strong foundation in Data Structures & Algorithms and a growing focus on Machine Learning and Computer Vision.
-
-I started my journey with competitive programming and problem solving, actively participating in platforms like Codeforces, CodeChef, LeetCode, and AtCoder. Over time, I strengthened my fundamentals by solving problems from the CSES Problem Set and following structured DSA learning paths such as AlgoMaster.
-
-Now, I am transitioning toward Machine Learning and AI, with a current focus on understanding core ML concepts and applying them to real-world problems, especially in Computer Vision.
-
----
-
-## 🔭 Current Focus
-I am currently learning and building projects in Machine Learning and Computer Vision, including:
-
-- 📊 Data preprocessing and feature engineering
-- 🤖 Classical Machine Learning models
-- 👁️ Computer Vision fundamentals (image processing, CNNs)
-- 🧠 Understanding deep learning architectures
+<p align="center">
+  <a href="https://linkedin.com/in/md-ashek-mahmud/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ashek.cse.bd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/28896124"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧩 Problem Solving Background
-- Competitive Programming (Codeforces, CodeChef, LeetCode, AtCoder)
-- CSES Problem Set practice
-- Structured DSA learning (AlgoMaster, 3-month roadmap)
-- Strong foundation in algorithms and data structures
+## About Me
+
+I'm a developer from Bangladesh with a strong foundation in Data Structures & Algorithms, built through competitive programming on Codeforces, CodeChef, LeetCode, and AtCoder, along with structured practice on the CSES Problem Set. I'm now applying that problem-solving foundation to Machine Learning and Computer Vision — currently working on deep learning models for medical image classification, including transfer learning comparisons and ablation studies on CNN architectures.
 
 ---
 
-## 🛠️ Tech Stack & Tools
-- **Languages:** Python, C++, Java
-- **ML Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib
-- **Tools:** Jupyter Notebook, Git, GitHub, Linux
+## 🚀 Featured Projects
+
+### 🔬 Lung & Colon Histopathology Image Classification
+Deep learning pipeline comparing transfer learning architectures (VGG16, ResNet50, InceptionV3, MobileNetV2, DenseNet121) on histopathology images, with a follow-up ablation study identifying the impact of individual architectural components on performance.
+**Tech:** Python, TensorFlow/Keras, Google Colab
+**Highlights:** Model comparison across 5 architectures · Systematic ablation study · Precision/Recall/F1 evaluation
+🔗 [View Repo](https://github.com/MdAshekMahmud/)
+
+### 🎬 Movie Recommendation System
+Content-based movie recommendation system using cosine similarity — recommends similar movies based on overview, genres, keywords, cast, and director, deployed as a Streamlit web app.
+**Tech:** Python, Pandas, Scikit-learn, NLTK, Streamlit
+🔗 [View Repo](https://github.com/MdAshekMahmud/movie_recommendation_system)
+
+<!--
+### 📌 Add Your Next Project Here
+Short one-line description of the problem it solves.
+**Tech:** e.g. Python, PyTorch
+`[Repo link]`
+
+> 💡 Tip: Pin your best 3-4 repos on your GitHub profile (top of the page) so these link directly to live code.
+-->
+---
+
+## 🧩 Problem Solving
+
+- 🟦 **Codeforces** — Rating **817** · 41 problems solved &nbsp;|&nbsp; [Profile](https://codeforces.com/profile/MdAshekMahmud)
+- 🟧 **LeetCode** — 98 problems solved &nbsp;|&nbsp; [Profile](https://leetcode.com/u/Md-Ashek_Mahmud/) · [Daily-LeetCode Repo](https://github.com/MdAshekMahmud/Daily-LeetCode)
+- 📘 **CSES Problem Set** — structured practice
+- 🗺️ **DSA Roadmap** — [Algo-Master-DSA Repo](https://github.com/MdAshekMahmud/Algo-Master-DSA) (3-month structured learning path)
+- Active on CodeChef and AtCoder as well
 
 ---
 
-## 🌱 Currently Exploring
-- 🚀 Machine Learning fundamentals and projects
-- 👁️ Computer Vision (OpenCV, CNN-based models)
-- ⚙️ Deep Learning frameworks (TensorFlow / PyTorch - learning stage)
-- 🌐 End-to-end AI project development
+## 🛠️ Tech Stack
+
+**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+
+**ML / Data:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+
+**Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=MdAshekMahmud&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MdAshekMahmud&theme=aura_dark&hide_border=false&layout=compact" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=MdAshekMahmud&theme=aura_dark&hide_border=false" height="165"/>
+</p>
 
 ---
 
 ## 📫 Let's Connect
+
 - 💼 GitHub: [MdAshekMahmud](https://github.com/MdAshekMahmud)
 - 🌐 LinkedIn: [Ashek Mahmud](https://linkedin.com/in/md-ashek-mahmud/)
 - 📧 Email: [ashek.cse.bd@gmail.com](mailto:ashek.cse.bd@gmail.com)
 
 ---
 
-## 🚀 Motto
-> “Strong fundamentals in algorithms, growing toward intelligent systems through Machine Learning and Computer Vision.”
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ashek-mahmud) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28896124) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashek.cse.bd@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MdAshekMahmud&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MdAshekMahmud&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MdAshekMahmud&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MdAshekMahmud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MdAshekMahmud&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=MdAshekMahmud&icon=10&color=13)](https://visitcount.itsvg.in)
+<p align="center"><i>"Strong fundamentals in algorithms, growing toward intelligent systems through Machine Learning and Computer Vision."</i></p>
