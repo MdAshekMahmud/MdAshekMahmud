@@ -19,11 +19,11 @@ I'm a developer from Bangladesh with a strong foundation in Data Structures & Al
 
 ## 🚀 Featured Projects
 
-### 🔬 Lung & Colon Histopathology Image Classification
+<!--### 🔬 Lung & Colon Histopathology Image Classification
 Deep learning pipeline comparing transfer learning architectures (VGG16, ResNet50, InceptionV3, MobileNetV2, DenseNet121) on histopathology images, with a follow-up ablation study identifying the impact of individual architectural components on performance.
 **Tech:** Python, TensorFlow/Keras, Google Colab
 **Highlights:** Model comparison across 5 architectures · Systematic ablation study · Precision/Recall/F1 evaluation
-🔗 [View Repo](https://github.com/MdAshekMahmud/)
+🔗 [View Repo](https://github.com/MdAshekMahmud/)-->
 
 ### 🎬 Movie Recommendation System
 Content-based movie recommendation system using cosine similarity — recommends similar movies based on overview, genres, keywords, cast, and director, deployed as a Streamlit web app.
