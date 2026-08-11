@@ -1,12 +1,22 @@
+<table width="100%">
+<tr>
+<td width="75%" valign="middle">
 
-<h1 align="center">Hi, I'm Md. Ashek Mahmud 👋</h1>
-<p align="center">Machine Learning & Computer Vision | Competitive Programmer | Bangladesh 🇧🇩</p>
+<h1>Hi, I'm Md. Ashek Mahmud 👋</h1>
+<p>Machine Learning & Computer Vision Enthusiast | DSA & Competitive Programming | AI Research | Bangladesh 🇧🇩</p>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/md-ashek-mahmud/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ashek.cse.bd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/28896124"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
 </p>
+
+</td>
+<td width="25%" align="right" valign="top">
+  <img src="https://raw.githubusercontent.com/francescobianco/gif/main/images/welcome-h256.gif?v=1" width="200"/>
+</td>
+</tr>
+</table>
 
 ---
 
