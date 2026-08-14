@@ -54,7 +54,7 @@ Short one-line description of the problem it solves.
 ## 🧩 Problem Solving
 
 - 🟦 **Codeforces** — Rating **817** · 41 problems solved &nbsp;|&nbsp; [Profile](https://codeforces.com/profile/MdAshekMahmud)
-- 🟧 **LeetCode** — 98 problems solved &nbsp;|&nbsp; [Profile](https://leetcode.com/u/Md-Ashek_Mahmud/) · [Daily-LeetCode Repo](https://github.com/MdAshekMahmud/Daily-LeetCode)
+- 🟧 **LeetCode** — 110 problems solved &nbsp;|&nbsp; [Profile](https://leetcode.com/u/Md-Ashek_Mahmud/) · [Daily-LeetCode Repo](https://github.com/MdAshekMahmud/Daily-LeetCode)
 - 📘 **CSES Problem Set** — structured practice
 - 🗺️ **DSA Roadmap** — [Algo-Master-DSA Repo](https://github.com/MdAshekMahmud/Algo-Master-DSA) (3-month structured learning path)
 - Active on CodeChef and AtCoder as well
