@@ -77,13 +77,17 @@ Short one-line description of the problem it solves.
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=MdAshekMahmud&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MdAshekMahmud&theme=aura_dark&hide_border=false&layout=compact" height="165"/>
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=MdAshekMahmud&theme=aura_dark&hide_border=false" height="165"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAshekMahmud&theme=aura_dark&hide_border=false" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAshekMahmud&theme=react-dark" width="100%"/>
 </p>
 
 ---
