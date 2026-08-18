@@ -87,7 +87,7 @@ Short one-line description of the problem it solves.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAshekMahmud&theme=react-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAshekMahmud&theme=react-dark&hide_border=false" width="100%"/>
 </p>
 
 ---
