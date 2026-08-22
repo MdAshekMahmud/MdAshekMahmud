@@ -53,8 +53,8 @@ Short one-line description of the problem it solves.
 
 ## 🧩 Problem Solving
 
-- 🟦 **Codeforces** — Rating **817** · 41 problems solved &nbsp;|&nbsp; [Profile](https://codeforces.com/profile/MdAshekMahmud)
-- 🟧 **LeetCode** — 110 problems solved &nbsp;|&nbsp; [Profile](https://leetcode.com/u/Md-Ashek_Mahmud/) · [Daily-LeetCode Repo](https://github.com/MdAshekMahmud/Daily-LeetCode)
+- 🟦 **Codeforces** — Rating **817** · 42 problems solved &nbsp;|&nbsp; [Profile](https://codeforces.com/profile/MdAshekMahmud)
+- 🟧 **LeetCode** — 124 problems solved &nbsp;|&nbsp; [Profile](https://leetcode.com/u/Md-Ashek_Mahmud/) · [Daily-LeetCode Repo](https://github.com/MdAshekMahmud/Daily-LeetCode)
 - 📘 **CSES Problem Set** — structured practice
 - 🗺️ **DSA Roadmap** — [Algo-Master-DSA Repo](https://github.com/MdAshekMahmud/Algo-Master-DSA) (3-month structured learning path)
 - Active on CodeChef and AtCoder as well
@@ -63,14 +63,46 @@ Short one-line description of the problem it solves.
 
 ### 🛠️ Tech Stack
 
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**ML / Data:**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=flat-square&logo=Matplotlib&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
+**Languages**
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" style="background:#fff;border-radius:8px;padding:4px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" style="background:#fff;border-radius:8px;padding:4px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" style="background:#fff;border-radius:8px;padding:4px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" style="background:#fff;border-radius:8px;padding:4px;"/>
 
-**Tools:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white)
+</td>
+
+<td valign="top" width="33%">
+
+**ML / Data**
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" style="background:#fff;border-radius:8px;padding:4px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" style="background:#fff;border-radius:8px;padding:4px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" style="background:#fff;border-radius:8px;padding:4px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" style="background:#fff;border-radius:8px;padding:4px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" style="background:#fff;border-radius:8px;padding:4px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" style="background:#fff;border-radius:8px;padding:4px;"/>
+
+</td>
+
+<td valign="top" width="33%">
+
+**Tools**
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" style="background:#fff;border-radius:8px;padding:4px;"/>&nbsp;
+<img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub" style="background:#24292f;border-radius:8px;padding:6px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" style="background:#fff;border-radius:8px;padding:4px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" style="background:#fff;border-radius:8px;padding:4px;"/>&nbsp;
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="40" height="40" alt="Google Colab" style="background:#fff;border-radius:8px;padding:4px;"/>&nbsp;
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40" height="40" alt="Kaggle" style="background:#fff;border-radius:8px;padding:6px;"/>
+
+</td>
+</tr>
+</table>
 
 
 ---
