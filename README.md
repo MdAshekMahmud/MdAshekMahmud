@@ -114,13 +114,13 @@ Short one-line description of the problem it solves.
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MdAshekMahmud&theme=aura_dark&hide_border=false&layout=compact" height="165"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAshekMahmud&theme=aura_dark&hide_border=false" width="48%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAshekMahmud&theme=react-dark&hide_border=false" width="100%"/>
-</p>
+</p> -->
 
 ---
 
