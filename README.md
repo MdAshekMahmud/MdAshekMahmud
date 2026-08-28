@@ -107,7 +107,7 @@ Short one-line description of the problem it solves.
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=MdAshekMahmud&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
@@ -121,7 +121,7 @@ Short one-line description of the problem it solves.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAshekMahmud&theme=react-dark&hide_border=false" width="100%"/>
 </p>
-
+-->
 ---
 
 ## 📫 Let's Connect
