@@ -132,4 +132,4 @@ Short one-line description of the problem it solves.
 
 ---
 
-<p align="center"><i>"Strong fundamentals in algorithms, growing toward intelligent systems through Machine Learning and Computer Vision."</i></p>
+<p align="center"><i>"Read, Understand, Hide, Write"</i></p>
